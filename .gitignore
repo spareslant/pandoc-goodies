@@ -181,3 +181,8 @@ Desktop.ini
 *.msp
 
 # End of https://www.gitignore.io/api/windows,linux,macos,purebasic
+
+# sparelant ignore
+package-lock.json
+package.json
+
