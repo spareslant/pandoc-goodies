@@ -16,7 +16,7 @@ This script will:
 */
 
 templateFile  = "GitHub_source.html5" // Template with CSS-injection placeholder
-cssFile       = "GitHub.min.css"      // CSS source to inject into placeholder
+cssFile       = "GitHub.css"      // CSS source to inject into placeholder
 outFile       = "../GitHub.html5"     // Final template output file
 placeHolder   = "{{CSS-INJECT}}"      // Placeholder string for CSS-injection
 
